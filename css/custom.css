@@ -1,0 +1,94 @@
+/*HOME PAGE*/
+
+ul.nav.nav-pills.pull-right {
+    margin-top: 19px;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+.row.marketing {
+    text-align: center;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #06a7ea;
+	border-color: #fff;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #fff;
+    background-color: #06a7ea;
+}
+
+.jumbotron {
+    background-image: url("http://cdn3.bigcommerce.com/s-ib87x/product_images/uploaded_images/joshua.jpg?t=1438894894");
+    background-size: 383px;
+    background-repeat: no-repeat;
+    margin-bottom: 9px;
+}
+
+.jumbotron .h1, .jumbotron h1 {
+    color: #fff;
+}
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+    color: #fff;
+}
+
+.header.clearfix {
+    margin-bottom: 8px;
+}
+
+h1 {
+    padding-top: 30px;
+}
+
+.nav>li>a {
+    padding: 5px 10px;
+}
+
+/*//////////FORM PAGE*/
+
+form {
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid black;
+    width: 30%;
+	padding: 20px;
+	border:1px solid #06a7ea;
+}
+
+fieldset {
+    padding-bottom: 20px;
+}
+
+input {
+    display: block;
+    margin: 0 auto;
+	width: 90%;
+}
+
+input#newsletter {
+    display: inline;
+}
+
+label {
+    float: left;
+    padding-left: 5%;
+}
+
+select {
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+    clear: both;
+}
+
+label.light {
+    text-align: initial;
+}
